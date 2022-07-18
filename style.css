@@ -1,9 +1,8 @@
-body {
-    background-color: #4db1ec;
-    background-image: url('images/hero.jpg');
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    background-blend-mode: screen;
-    height: 100vh;
+.title {
+  color: #0bd;
+  font-size: 2rem;
+  font-family: sans-serif;
+  margin-bottom: 20px;
+  margin-left: 10px;
 }
+/*# sourceMappingURL=style.css.map */
